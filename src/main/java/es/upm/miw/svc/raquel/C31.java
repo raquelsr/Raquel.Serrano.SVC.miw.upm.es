@@ -8,6 +8,7 @@ public class C31 {
     
     private String m1 = "m1";
     private String m2 = "m2";
+    private String mB = "mB";
     
     public String m1() {
         return m1;
@@ -15,5 +16,9 @@ public class C31 {
     
     public String m2() {
         return m2;
+    }
+    
+    public String mB() {
+        return mB;
     }
 }
