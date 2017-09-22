@@ -8,6 +8,7 @@ public class C21 {
 
     private String m1 = "m1";
     private String m2 = "m2";
+    private String m3 = "m3";
     
     public String m1() {
         return m1;
@@ -15,6 +16,10 @@ public class C21 {
     
     public String m2() {
         return m2;
+    }
+    
+    public String m3() {
+        return m3;
     }
 }
 
